@@ -1,0 +1,24 @@
+# temp files
+*.egg-info
+*.py[cod]
+*~
+*.swp
+*.orig
+
+# documentation folder
+docs/_build/*
+docs/_api/*
+
+# test/coverage output
+.venv
+.tox
+.coverage
+htmlcov/*
+
+# package files
+*.egg
+*.egg-info
+.eggs
+
+# distribution files
+dist/*
